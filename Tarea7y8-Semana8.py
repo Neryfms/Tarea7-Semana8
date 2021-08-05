@@ -3,7 +3,7 @@ import time
 import telebot
 from telebot import types
 
-TOKEN = '1942066480:AAH9-9DD7EP3_ofEMOkfoDAd7wAg9A16w-s'
+TOKEN = '1851488965:AAH8griTz6_ohQ25QiF_QiIMpj9jjS4Y8hA'
 
 knownUsers = [] 
 userStep = {} 
